@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gildoneto.github.io/web-page",
+  "homepage": "https://gildoneto.github.io/web-page/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
